@@ -4,7 +4,7 @@
 
 .flex-container {
     background:indigo;
-    border:5px solid black;
+    border:5px solid darkblue;
     height:50px;
     display:flex;
     padding:16;
@@ -33,7 +33,7 @@
 
     .item {
         width:400px;
-        border:5px solid black;
+        border:5px solid darkblue;
         height:200px;
         background:indigo
     }
@@ -41,7 +41,7 @@
     .item2 {
         width:400px;
         height:200px;
-        border:5px solid black;
+        border:5px solid darkblue;
         background:gray
     }
 
