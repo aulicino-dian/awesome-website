@@ -1,1 +1,1 @@
-Making a website using html and css
+Website project for theodinproject
