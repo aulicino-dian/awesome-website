@@ -1,1 +1,1 @@
-Making a website using html css and flexbox for the odin project
+Making a website using html and css
